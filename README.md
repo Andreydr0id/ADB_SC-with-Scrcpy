@@ -25,6 +25,11 @@ sudo pacman -Syyu
 sudo pacman -S android-tools
 ```
 
+**Install ADB on MacOS**
+```sh
+brew install android-platform-tools
+```
+
 
 ### Install Scrcpy
 
@@ -37,6 +42,7 @@ sudo apt install scrcpy
 ```sh
 dnf copr enable zeno/scrcpy
 ```
+
 ```sh
 dnf install scrcpy
 ```
@@ -44,4 +50,9 @@ dnf install scrcpy
 **Install Scrcpy on Arch Linux**
 ```sh
 pacman -S scrcpy
+```
+
+**Install Scrcpy on MacOS**
+```sh
+brew install scrcpy 
 ```
