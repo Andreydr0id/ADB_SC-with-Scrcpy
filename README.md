@@ -14,7 +14,7 @@ sudo apt install adb
 
 **Install ADB on Fedora**
 ```sh
-sudo dnf install android-tools-adb
+sudo dnf install adb
 ```
 
 **Install ADB on Arch**
