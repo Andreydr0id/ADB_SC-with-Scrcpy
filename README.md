@@ -56,3 +56,8 @@ pacman -S scrcpy
 ```sh
 brew install scrcpy 
 ```
+
+## Special thanks
+https://github.com/Genymobile/scrcpy
+
+https://developer.android.com/studio/command-line/adb
